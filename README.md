@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/TablePlus-2D4CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLC-5B5BEA?style=for-the-badge"/>
 
 </div>
 
